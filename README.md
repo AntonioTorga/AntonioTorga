@@ -1,4 +1,5 @@
-## Hi there 👋
+# HOLAaaAA!!
+¡Me llamo Antonio Torga! soy un Ingeniero Civil Computacional de la Universidad de Chile. Mi área de interés principal en programación es el software científico enfocado en áreas afectadas por el cambio climático.
 
 <!--
 **AntonioTorga/AntonioTorga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
